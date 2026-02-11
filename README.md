@@ -1,4 +1,4 @@
-# 👋 Hola mi nomnbre es Lucía y este es mi repositorio personal
+# 👋 Hola mi nombre es Lucía y este es mi repositorio personal
 
 🎓 Despúes de una larga trayectoria en el sector textil he decidido dar un giro profesional y formarme en el mundo del "Data Analyst"  
 🛠️ Me encantaría vincular mi formación como geologa al análisis de datos, especialmente en el sector de la geomorfología y el medio ambiente.
