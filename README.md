@@ -7,7 +7,7 @@
 
 ## 🧠 Sobre mí
 
-- 🌍  Soy licenciada en Geologia 
+- 🌍  Soy licenciada en Geologia  🦖
 - 🧮  Actualmente estudiante del Bootcamp Data Analist de Factoria F5
 - 📖  Con muchas ganas de aprender y enfrentarme a nuevos retos
  
