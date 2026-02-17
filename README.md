@@ -21,12 +21,11 @@
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - ![Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-- 💻  Conceptos básicos de HTML y CSS
 
 
 ---
 
-##  Objetivo actual
+## 🏁 Objetivo actual
 
 - 📝  Sacar el máximo partido a esta formación e intentar dar el salto profesional al sector tecnológico
 - ⚡  Conseguir convertirme en una buena "Data Analyst"
