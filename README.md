@@ -18,6 +18,9 @@
 
 - 🐍  Python
 - 🗄   Git & GitHub
+- ⚙   Vs Code
+- 📊  Google sheets
+- 💻  Conceptos básicos de HTML y CSS
 
 
 ---
