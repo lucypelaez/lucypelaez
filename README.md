@@ -43,6 +43,4 @@
 
 ## ## 📈 Estadísticas de GitHub
 
-![Mis stats](https://github-readme-stats.vercel.app/api?username=lucypelaez&show_icons=true&theme=tokyonight)
-
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=lucypelaez&layout=compact&theme=tokyonight)
+[Stats de Lucia](https://github-readme-stats.vercel.app/api?username=lucypelaez&show_icons=true&dark)
