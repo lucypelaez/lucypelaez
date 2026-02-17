@@ -38,3 +38,11 @@
 
 - 🦕  Me encanta la paleontología, y participé durante dos veranos en la restauración de Yacimientos de huellas de dinosaurios en La Rioja
 - 🎨  Me apasiona el mundo de la ilustración y en mi tiempo libre estoy aprendiendo a crear ilustraciones digitales con Procreate
+
+---
+
+## ## 📈 Estadísticas de GitHub
+
+![Mis stats](https://github-readme-stats.vercel.app/api?username=lucypelaez&show_icons=true&theme=tokyonight)
+
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=lucypelaez&layout=compact&theme=tokyonight)
