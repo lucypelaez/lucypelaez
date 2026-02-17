@@ -41,6 +41,12 @@
 
 ---
 
-## ## 📈 Estadísticas de GitHub
+## 📈 Estadísticas de GitHub
 
-[Stats de Lucia](https://github-readme-stats.vercel.app/api?username=lucypelaez&show_icons=true&dark)
+- [Stats de Lucia](https://github-readme-stats.vercel.app/api?username=lucypelaez&show_icons=true&dark)
+- [Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=lucypelaezlayout=compact&dark)
+
+
+## 🔥 Mi racha en GitHub
+
+- [Racha](https://github-readme-streak-stats.herokuapp.com/?user=lucypelaez&dark)
