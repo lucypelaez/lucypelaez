@@ -29,3 +29,11 @@
 
 - 📝  Sacar el máximo partido a esta formación e intentar dar el salto profesional al sector tecnológico
 - ⚡  Conseguir convertirme en una buena "Data Analyst"
+
+
+---
+
+##    Curiosidades sobre mi
+
+- 🦕  Me encanta la paleontología, y participé durante dos veranos en la restauración de Yacimientos de huellas de dinosaurios en La Rioja
+- 🎨  Me apasiona el mundo de la ilustración y en mi tiempo libre estoy aprendiendo a crear ilustraciones digitales con Procreate
