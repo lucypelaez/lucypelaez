@@ -36,7 +36,9 @@
 ##    Curiosidades sobre mi
 
 - 🦕  Me encanta la paleontología, y participé durante dos veranos en la restauración de Yacimientos de huellas de dinosaurios en La Rioja
-- 🎨  Me apasiona el mundo de la ilustración y en mi tiempo libre estoy aprendiendo a crear ilustraciones digitales con Procreate
+- 🎨  Me apasiona el mundo de la ilustración y en mi tiempo libre estoy aprendiendo a crear ilustraciones digitales con Procreate, a continuación muestro una de mis favoritas.
+
+<img width="230" height="320" alt="rex-sidrero" src="https://github.com/user-attachments/assets/286dae63-007e-4471-89c7-37e71446d93b" />
 
 ---
 
