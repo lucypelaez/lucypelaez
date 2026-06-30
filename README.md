@@ -8,7 +8,7 @@
 ## 🧠 Sobre mí
 
 - 🌍  Soy licenciada en Geologia  🦖
-- 🧮  Actualmente estudiante del Bootcamp Data Analyst de Factoria F5
+- 🧮  "Data Analyst · Python · SQL · Abierta a nuevas oportunidades"
 - 📖  Con muchas ganas de aprender y enfrentarme a nuevos retos
  
 
